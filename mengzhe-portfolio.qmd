@@ -1,0 +1,92 @@
+
+---
+title: "Mengzhe Dai | MBA Portfolio"
+format: html
+author: "Mengzhe Dai"
+image: "images/headshot.jpg"
+---
+
+![Mengzhe Dai](images/headshot.jpg){width=300px style="border-radius: 100%; float: right; margin-left: 40px;"}
+
+## About Me
+
+Hello everyone! My name is **Dai Mengzhe** and I am currently pursuing a Master of Business Administration degree at **Canada West University** with a strong interest in **Data Analytics**, **Artificial Intelligence in Business** and **Education**. I bring a unique combination of academic and practical experience in **communication**, **organization**, and **strategic thinking**.
+
+---
+
+## Education
+
+**Master of Business Administration (MBA)**  
+*University Canada West, BC, Canada*  
+_Apr 2024 – Apr 2026 (Expected)_
+
+**Bachelor of Arts**  
+*Nankai University, China*  
+_Sep 2017 – Jun 2023_
+
+**Relevant Coursework**:
+- Machine Learning Tools & Techniques  
+- Python Programming  
+- Application of AI in Business  
+- Data Structures & Algorithms  
+- Database Technology (ACCESS)  
+- Logical Philosophy  
+
+---
+
+## Experience Highlights
+
+**Staff**, PokinPokin Claw Machine Game Store  
+_Oct 2024 – Present_  
+Explained rules to customers, managed game points, handled cashier duties, and restocked machines.
+
+**Project Assistant**  
+_Sep 2023 – Dec 2023_  
+Managed social media, executed offline events, and understood customer psychology.
+
+**Teacher (K-12)**  
+_Sep 2019 – Dec 2019, Sep 2023 – Dec 2023_  
+Taught English, Math, and Chemistry with a warm and kid-friendly approach.
+
+**Administrative Assistant**  
+_Sep 2022 – Dec 2022_  
+Handled calls and scheduled counseling appointments.
+
+**Retail Associate**, 7-11  
+_Aug 2019 – Nov 2019_  
+Managed cashier tasks, cooked, restocked shelves, and maintained customer service.
+
+---
+
+## UNIVERSITY & COMMUNITY SERVICES
+
+**Psychology Community Online Listener**
+>> Communicative, Amiable
+·Comforting depressed people online 
+
+**Club leader**
+>> Organized, team-oriented, strategic
+·Organize stage performances		·Organize weekly meetings
+
+**Youth Volunteer**
+>> Communicative, personable, coordinated
+·Volunteered at the nursing house, childcare centers, subway stations, etc.
+
+
+## Key Skills & Strengths
+
+- Communication & Interpersonal Skills  
+- Bilingual (English & Chinese)  
+- Data Analysis & AI Application  
+- Teamwork & Organization  
+- Customer Engagement  
+- Teaching & Presentation
+
+---
+
+## Contact
+
+📧 daimengzhe1999@gmail.com  
+📞 (+1) 778-990-2716  
+
+*Last updated: `r Sys.Date()`*
